@@ -1,7 +1,7 @@
 # Fire 🔥  
   
 
-<a href="https://github.com/mcmfire21" target="_blank">
+<a href="https://github.com/mcmfire" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
 </a>
 <a href="https://dev.to/mcmfire21" target="_blank">
@@ -161,8 +161,8 @@ At present, I specialize in backend web development and am actively seeking job 
 ## Github Stats  
 
 <picture>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mcmfire21&cache_seconds=86400&hide_border=true&theme=dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mcmfire&cache_seconds=86400&hide_border=true&theme=dark"/>
 </picture>
 <picture>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcmfire21&cache_seconds=8640&layout=compact&hide_border=true&langs_count=10&theme=dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcmfire&cache_seconds=8640&layout=compact&hide_border=true&langs_count=10&theme=dark"/>
 </picture>
