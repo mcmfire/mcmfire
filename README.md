@@ -22,7 +22,7 @@
 
 
 
-### Hi there!  
+### Hello World!  
 I'm an indie developer who dedicates the majority of my free time to developing applications and exploring new subjects that pique my interest. Programming, whether in the realm of applications or games, is a profound passion of mine.
 
 At present, I specialize in backend web development and am actively seeking job opportunities. My focus is on crafting lightweight yet robust applications, driven by my unwavering commitment to delivering high-quality performance.  
@@ -86,6 +86,9 @@ At present, I specialize in backend web development and am actively seeking job 
     </a>
     <a href="https://jwt.io/" target="_blank">
         <img style="margin: 10px" src="./assets/jwt-logo.svg" alt="JWT" height="50"/>
+    </a>
+    <a href="https://www.sqlalchemy.org/" target="_blank">
+        <img style="margin: 10px" src="./assets/sqlalchemy-logo.png" alt="SQLAlchemy" height="50"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank">
         <img style="margin: 10px" src="./assets/mysql-logo.svg" alt="MySQL" height="50"/>
@@ -153,6 +156,9 @@ At present, I specialize in backend web development and am actively seeking job 
     <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
         <img style="margin: 10px" src="./assets/photoshop-logo.svg" alt="Photoshop" height="50"/>
     </a> 
+    <a href="https://www.atlassian.com/software/jira" target="_blank">
+        <img style="margin: 10px" src="./assets/jirasoftware-logo.png" alt="JiraSoftware" height="50"/>
+    </a>
 </div>  
 
 <br/>  
