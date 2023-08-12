@@ -87,9 +87,6 @@ At present, I specialize in backend web development and am actively seeking job 
     <a href="https://jwt.io/" target="_blank">
         <img style="margin: 10px" src="./assets/jwt-logo.svg" alt="JWT" height="50"/>
     </a>
-    <a href="https://www.sqlalchemy.org/" target="_blank">
-        <img style="margin: 10px" src="./assets/sqlalchemy-logo.png" alt="SQLAlchemy" height="50"/>
-    </a>
     <a href="https://www.mysql.com/" target="_blank">
         <img style="margin: 10px" src="./assets/mysql-logo.svg" alt="MySQL" height="50"/>
     </a>  
