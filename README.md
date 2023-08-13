@@ -152,6 +152,9 @@ At present, I specialize in backend web development and am actively seeking job 
     </a>  
     <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
         <img style="margin: 10px" src="./assets/photoshop-logo.svg" alt="Photoshop" height="50"/>
+    </a>
+    <a href="https://filmora.wondershare.net/filmora-video-editor.html" target="_blank">
+        <img style="margin: 10px" src="./assets/filmora-logo.png" alt="Filmora" height="50"/>
     </a> 
     <a href="https://www.atlassian.com/software/jira" target="_blank">
         <img style="margin: 10px" src="./assets/jirasoftware-logo.png" alt="JiraSoftware" height="50"/>
