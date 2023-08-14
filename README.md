@@ -173,5 +173,5 @@ At present, I specialize in backend web development and am actively seeking job 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mcmfire&cache_seconds=86400&hide_border=true&theme=dark"/>
 </picture>
 <picture>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcmfire&cache_seconds=8640&layout=compact&hide_border=true&langs_count=10&theme=dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcmfire&cache_seconds=86400&layout=compact&hide_border=true&langs_count=10&theme=dark"/>
 </picture>
