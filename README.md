@@ -162,6 +162,9 @@ At present, I specialize in backend web development and am actively seeking job 
     <a href="https://app.diagrams.net/" target="_blank">
         <img style="margin: 10px" src="./assets/diagramsdotnet-logo.png" alt="Diagrams.net" height="50"/>
     </a>
+    <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
+        <img style="margin: 10px" src="./assets/autodeskautocad-logo.png" alt="AutoCAD" height="50"/>
+    </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">
         <img style="margin: 10px" src="./assets/microsoftword-logo.png" alt="Word" height="50"/>
     </a>
