@@ -35,7 +35,7 @@ At present, I specialize in backend web development and am actively seeking job 
 - 👨🏻‍💻 I’m currently working on planning for my next project.  
   
 
-- ✏ I’m currently learning ReactJS, PHP, XAMPP, Blender, and Unity.  
+- ✏ I’m currently learning ReactJS, PHP, Node.js, XAMPP, Blender, and Unity.  
   
 
 - 🔍 I desire learning programming principles and best practices.  
@@ -122,6 +122,9 @@ At present, I specialize in backend web development and am actively seeking job 
     </a>  
     <a href="https://www.npmjs.com/" target="_blank">
         <img style="margin: 10px" src="./assets/npm-logo.png" alt="NPM" height="50"/>
+    </a>  
+    <a href="https://nodejs.org/en" target="_blank">
+        <img style="margin: 10px" src="./assets/nodejs-logo.png" alt="Node.js" height="50"/>
     </a>  
     <a href="https://www.arduino.cc/" target="_blank">
         <img style="margin: 10px" src="./assets/arduino-logo.png" alt="Arduino" height="50"/>
