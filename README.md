@@ -35,7 +35,7 @@ At present, I specialize in backend web development and am actively seeking job 
 - 👨🏻‍💻 I’m currently working on planning for my next project.  
   
 
-- ✏ I’m currently learning ReactJS, PHP, Node.js, XAMPP, Blender, and Unity.  
+- ✏ I’m currently learning ReactJS, PHP, Node.js, C#, XAMPP, Blender, and Unity.  
   
 
 - 🔍 I desire learning programming principles and best practices.  
@@ -66,6 +66,9 @@ At present, I specialize in backend web development and am actively seeking job 
     <a href="https://www.cplusplus.com/" target="_blank">
         <img style="margin: 10px" src="./assets/cplusplus-logo.svg" alt="C++" height="50"/>
     </a>  
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+        <img style="margin: 10px" src="./assets/csharp-logo.png" alt="C#" height="50"/>
+    </a> 
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
         <img style="margin: 10px" src="./assets/html5-logo.svg" alt="HTML5" height="50"/>
     </a>  
