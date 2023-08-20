@@ -135,6 +135,9 @@ At present, I specialize in backend web development and am actively seeking job 
     <a href="https://www.tinkercad.com/" target="_blank">
         <img style="margin: 10px" src="./assets/tinkercad-logo.png" alt="Tinkercad" height="50"/>
     </a>  
+    <a href="https://www.aseprite.org/" target="_blank">
+        <img style="margin: 10px" src="./assets/aseprite-logo.png" alt="Aseprite" height="50"/>
+    </a>  
     <a href="https://www.figma.com/" target="_blank">
         <img style="margin: 10px" src="./assets/figma-logo.svg" alt="Figma" height="50"/>
     </a>  
