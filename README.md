@@ -168,6 +168,9 @@ At present, I specialize in backend web development and am actively seeking job 
     <a href="https://www.atlassian.com/software/jira" target="_blank">
         <img style="margin: 10px" src="./assets/jirasoftware-logo.png" alt="JiraSoftware" height="50"/>
     </a>
+    <a href="https://www.notion.so/" target="_blank">
+        <img style="margin: 10px" src="./assets/notion-logo.png" alt="Notion" height="50"/>
+    </a>
     <a href="https://app.diagrams.net/" target="_blank">
         <img style="margin: 10px" src="./assets/diagramsdotnet-logo.png" alt="Diagrams.net" height="50"/>
     </a>
