@@ -129,6 +129,9 @@ At present, I specialize in backend web development and am actively seeking job 
     <a href="https://nodejs.org/en" target="_blank">
         <img style="margin: 10px" src="./assets/nodejs-logo.png" alt="Node.js" height="50"/>
     </a>  
+    <a href="https://octave.org/" target="_blank">
+        <img style="margin: 10px" src="./assets/octave-logo.svg" alt="Octave" height="50"/>
+    </a>  
     <a href="https://bleyer.org/icarus/" target="_blank">
         <img style="margin: 10px" src="./assets/icarusverilog-logo.png" alt="IcarusVerilog" height="50"/>
     </a>  
