@@ -54,11 +54,17 @@ At present, I specialize in backend web development and am actively seeking job 
     <a href="https://www.postman.com/" target="_blank">
         <img style="margin: 10px" src="./assets/postman-logo.png" alt="Postman" height="50"/>
     </a>
+    <a href="https://git-scm.com/about" target="_blank">
+        <img style="margin: 10px" src="./assets/git-logo.png" alt="Git" height="50"/>
+    </a>
+    <a href="https://git-scm.com/about" target="_blank">
+        <img style="margin: 10px" src="./assets/gitbash-logo.png" alt="GitBash" height="50"/>
+    </a>
     <a href="https://github.com/" target="_blank">
-        <img style="margin: 10px" src="./assets/github-logo.png" alt="Github" height="50"/>
+        <img style="margin: 10px" src="./assets/github-logo.png" alt="GitHub" height="50"/>
     </a>
     <a href="https://desktop.github.com/" target="_blank">
-        <img style="margin: 10px" src="./assets/githubdesktop-logo.svg" alt="GithubDesktop" height="50"/>
+        <img style="margin: 10px" src="./assets/githubdesktop-logo.svg" alt="GitHubDesktop" height="50"/>
     </a>
     <a href="https://www.python.org/" target="_blank">
         <img style="margin: 10px" src="./assets/python-logo.svg" alt="Python" height="50"/>
