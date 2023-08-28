@@ -172,7 +172,7 @@ At present, I specialize in backend web development and am actively seeking job 
         <img style="margin: 10px" src="./assets/adobeillustrator-logo.svg" alt="Illustrator" height="50"/>
     </a>  
     <a href="https://www.adobe.com/in/products/premiere.html" target="_blank">
-        <img style="margin: 10px" src="./assets/adobepremierepro-logo.png" alt="PremierePro" height="50"/>
+        <img style="margin: 10px" src="./assets/adobepremierepro-logo.svg" alt="PremierePro" height="50"/>
     </a>  
     <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
         <img style="margin: 10px" src="./assets/photoshop-logo.svg" alt="Photoshop" height="50"/>
