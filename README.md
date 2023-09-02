@@ -85,7 +85,7 @@ At present, I specialize in backend web development and am actively seeking job 
         <img style="margin: 10px" src="./assets/javascript-logo.svg" alt="JavaScript" height="50"/>
     </a>  
     <a href="https://socket.io/" target="_blank">
-        <img style="margin: 10px" src="./assets/socketio-logo.svg" alt="Socket.IO" height="50"/>
+        <img style="margin: 10px" src="./assets/socketio-logo.png" alt="Socket.IO" height="50"/>
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank">
         <img style="margin: 10px" src="./assets/flask-logo.png" alt="Flask" height="50"/>
