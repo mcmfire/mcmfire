@@ -34,7 +34,7 @@ Equipped with knowledge of programming principles and best practices, I always a
 ## Snapshots
 - 👨🏻‍💻 I'm currently working on [Support Ticketing System](https://github.com/mcmfire/support-ticketing-system.git).
 
-- ✏ I'm currently learning PHP and Node.js.
+- ✏ I'm currently learning Docker, Node.js, and PHP.
 
 - 🔍 I desire learning programming principles and best practices.
 
