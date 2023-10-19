@@ -34,7 +34,7 @@ Equipped with knowledge of programming principles and best practices, I always a
 ## Snapshots
 - 👨🏻‍💻 I'm currently working on [Support Ticketing System](https://github.com/mcmfire/support-ticketing-system.git).
 
-- ✏ I'm currently learning Docker, Node.js, and PHP.
+- ✏ I'm currently learning Node.js, and PHP.
 
 - 🔍 I desire learning programming principles and best practices.
 
@@ -173,6 +173,9 @@ Equipped with knowledge of programming principles and best practices, I always a
 	</a>
 	<a href="https://www.apachefriends.org/" target="_blank">
 		<img src="https://img.shields.io/badge/xampp-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
+	</a>
+	<a href="https://www.docker.com/" target="_blank">
+		<img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 	</a>
 </div>
 
