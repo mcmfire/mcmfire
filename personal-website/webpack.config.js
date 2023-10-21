@@ -1,5 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
   entry: './src/index.js',
@@ -24,11 +25,22 @@ module.exports = {
         test: /\.scss$/,
         use: ['style-loader', 'css-loader', 'sass-loader'],
       },
+      {
+        test: /\.svg$/,
+        use: ['@svgr/webpack'],
+      },
     ],
   },
   plugins: [
     new HtmlWebpackPlugin({
       template: './public/index.html',
+      favicon: './public/favicon.ico',
+    }),
+    new CopyWebpackPlugin({
+      patterns: [
+        {from: './public/assets', to: './assets'},
+        {from: './public/site.webmanifest', to: './'},
+      ]
     }),
   ],
   optimization: {
@@ -44,6 +56,6 @@ module.exports = {
     allowedHosts: [
       'all'
     ],
-    port: 5000,
+    port: 8080,
   },
 };
