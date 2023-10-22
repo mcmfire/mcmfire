@@ -1,6 +1,7 @@
 import React, { Suspense, lazy } from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import Navbar from "./components/navbar/navbar";
 import "./index.scss";
 
 const Home = lazy(() => import("./pages/home/home"));
@@ -8,6 +9,7 @@ const Home = lazy(() => import("./pages/home/home"));
 ReactDOM.createRoot(document.getElementById("root")).render(
     <div className="app">
         <BrowserRouter>
+        <Navbar/>
         <Suspense fallback={<></>}>
             <Routes>
                 <Route exact path="/" element={<Home/>}/>

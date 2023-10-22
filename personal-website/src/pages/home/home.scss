@@ -1,5 +1,5 @@
 @import "../../index";
 
 .home-page {
-    @include expand;
+    z-index: 1;
 }
