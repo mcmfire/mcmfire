@@ -28,11 +28,14 @@ html, body {
     
         header {
             display: $app-display;
-            flex: 1;
         }
     
-        main {
+        header, main {
             flex: 1;
+
+            a {
+                cursor: pointer;
+            }
         }
     }
 }
