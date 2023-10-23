@@ -7,7 +7,7 @@
     display: $app-display;
     flex: $navbar-flex;
     z-index: 1;
-    background-color: $navbar-background;
+    background: $navbar-background;
     align-items: center;
     justify-content: space-between;
 
@@ -21,25 +21,16 @@
         }
     }
 
-    &-options {
+    a {
+        display: $app-display;
+        align-items: center;
         font-weight: bolder;
-        
-        ul {
-            list-style: none;
-
-            li {
-                a {
-                    display: flex;
-                    align-items: center;
-                    text-decoration: none;
-                    color: $app-color-dark;
-                }
-            }
-        }
+        text-decoration: none;
+        color: $app-color-dark;
     }
 }
 
-@media (max-width: 360px) {
+@media (max-width: $mobile-max-width) {
     $navbar-flex: 0 0 10%;
     $navbar-logo-width: 20%;
     $navbar-logo-height: 60%;

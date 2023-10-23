@@ -1,3 +1,4 @@
+$mobile-max-width: 360px;
 $app-display: flex;
 $app-background: #1e1e1e;
 $app-color-dark: #ffffff;
@@ -6,3 +7,11 @@ $navbar-background: #121212;
 $navbar-flex: 0 0 10%;
 $navbar-logo-width: 4%;
 $navbar-logo-height: 40%;
+
+@mixin expand {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: fixed;
+}

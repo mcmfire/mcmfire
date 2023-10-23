@@ -3,8 +3,11 @@ import "./home.scss";
 
 const Home = () => {
     return (
-        <div className="home-page">
-        </div>
+        <section>
+            <div className="home-page">
+            <img src="../../assets/icons/avatar.svg" alt="banner-avatar"/>
+            </div>
+        </section>
     );
 };
 

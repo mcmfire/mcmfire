@@ -1,0 +1,63 @@
+@import "../../app";
+
+.options {
+    display: flex;
+    flex: 1;
+
+    ul {
+        display: $app-display;
+        flex-direction: column;
+        justify-content: space-evenly;
+
+        li {
+            list-style: none;
+
+            a {
+                text-decoration: none;
+                color: $app-color-dark;
+                font-weight: bolder;
+                font-size: 3vw;
+            }
+        }
+
+        @for $i from 1 through 3 {
+            $left-margin: 5vw * $i;
+
+            li:nth-child(#{$i}) a {
+                margin-left: $left-margin;
+            }
+        }
+    }
+}
+
+@media (max-width: $mobile-max-width){
+    .options {
+        display: $app-display;
+        
+        ul {
+            display: $app-display;
+            flex-direction: row;
+            flex: 1;
+            margin-top: 5%;
+            
+            li {
+                display: flex;
+                justify-content: center;
+                width: 25vw;
+                height: 40px;
+                border: #ffffff 1px solid;
+                border-radius: 5px;
+            }
+
+            @for $i from 1 through 3 {
+                li:nth-child(#{$i}) a {
+                    display: flex;
+                    flex: 1;
+                    justify-content: center;
+                    align-items: center;
+                    margin-left: 0;
+                }
+            }
+        }
+    }
+}
