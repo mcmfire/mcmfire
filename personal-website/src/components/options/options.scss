@@ -11,7 +11,7 @@
 
         li {
             list-style: none;
-
+            transition: linear 2s infinite;
             a {
                 text-decoration: none;
                 color: $app-color-dark;
@@ -25,6 +25,18 @@
 
             li:nth-child(#{$i}) a {
                 margin-left: $left-margin;
+                animation: slide-in-#{$i} 1s ease;
+
+                @keyframes slide-in-#{$i} {
+                    0% {
+                        margin-left: 0vw;
+                        opacity: 0;
+                    }
+                    100% {
+                        margin-left: $left-margin;
+                        opacity: 1;
+                    }
+                }
             }
         }
     }
