@@ -8,37 +8,55 @@
         display: $app-display;
         flex-direction: column;
         justify-content: space-evenly;
+        animation: fade-in 0.8s ease forwards, slide-in 0.8s ease forwards;
+        margin-right: 15vw;
 
         li {
+            display: $app-display;
             list-style: none;
-            transition: linear 2s infinite;
+            transform: translateX(-5vw);
+
             a {
                 text-decoration: none;
                 color: $app-color-dark;
                 font-weight: bolder;
                 font-size: 3vw;
-            }
-        }
+                transition: text-shadow 0.3s ease;
 
-        @for $i from 1 through 3 {
-            $left-margin: 5vw * $i;
-
-            li:nth-child(#{$i}) a {
-                margin-left: $left-margin;
-                animation: slide-in-#{$i} 1s ease;
-
-                @keyframes slide-in-#{$i} {
-                    0% {
-                        margin-left: 0vw;
-                        opacity: 0;
-                    }
-                    100% {
-                        margin-left: $left-margin;
-                        opacity: 1;
-                    }
+                &:hover {
+                    text-shadow: 0.5px 0.5px 5px #ffffff;
                 }
             }
         }
+
+        $justify: (flex-start, center, flex-end);
+        $delay: (0s, 0.4s, 0.6s);
+
+        @for $i from 0 through 2 {
+            li:nth-child(#{$i + 1}) {
+                justify-content: nth($justify, $i + 1);
+            }
+        }
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes slide-in {
+    0% {
+        flex: 0;
+        transform: translateX(-5vw);
+    }    
+    100% {
+        flex: 1;
+        transform: translateX(5vw);
     }
 }
 
@@ -50,7 +68,8 @@
             display: $app-display;
             flex-direction: row;
             flex: 1;
-            margin-top: 5%;
+            margin: 5% 0vw 0% 0%;
+            animation: fade-in 0.8s ease forwards;
             
             li {
                 display: flex;
@@ -59,6 +78,7 @@
                 height: 40px;
                 border: #ffffff 1px solid;
                 border-radius: 5px;
+                transform: translateX(0vw);
             }
 
             @for $i from 1 through 3 {
