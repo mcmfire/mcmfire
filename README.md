@@ -72,11 +72,20 @@ Equipped with knowledge of programming principles and best practices, I always a
 	<a href="https://sass-lang.com/" target="_blank">
 		<img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="CSS3"/>
 	</a>
+	<a href="https://tailwindcss.com/" target="_blank">
+		<img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="CSS3"/>
+	</a>
 	<a href="https://www.w3schools.com/js/" target="_blank">
 		<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
 	</a>
+	<a href="https://www.typescriptlang.org/" target="_blank">
+		<img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="JavaScript"/>
+	</a>
 	<a href="https://react.dev/" target="_blank">
 		<img src="https://img.shields.io/badge/reactjs-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS"/>
+	</a>
+	<a href="https://nextjs.org/" target="_blank">
+		<img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="ReactJS"/>
 	</a>
 	<a href="https://webpack.js.org/" target="_blank">
 		<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack"/>
