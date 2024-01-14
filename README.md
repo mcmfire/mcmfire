@@ -38,7 +38,7 @@ Equipped with knowledge of programming principles and best practices, I always a
 
 - 🔍 I desire learning programming principles and best practices.
 
-- 💬 "Everything is possible, we just lack knowledge about it."
+- 💬 "Everything is possible, we just lack knowledge about what we think isn't." - Fire
 
 <br/>
 
