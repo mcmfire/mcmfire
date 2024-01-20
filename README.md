@@ -4,17 +4,9 @@
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white 
         alt=github/>
     </a>
-    <a href="https://dev.to/mcmfire21" target="_blank">
-        <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white 
-        alt=devto/>
-    </a>
     <a href="https://stackoverflow.com/users/22728462/fire" target="_blank">
         <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow/>
     </a>
-    <a href="https://www.behance.net/mcmfire21" target="_blank">
-        <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white 
-        alt=behance/>
-    </a>  
     <a href="https://linkedin.com/in/mcmfire21/" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
         alt=linkedin/>
@@ -70,22 +62,22 @@ Equipped with knowledge of programming principles and best practices, I always a
 		<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 	</a>
 	<a href="https://sass-lang.com/" target="_blank">
-		<img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="CSS3"/>
+		<img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
 	</a>
 	<a href="https://tailwindcss.com/" target="_blank">
-		<img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="CSS3"/>
+		<img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
 	</a>
 	<a href="https://www.w3schools.com/js/" target="_blank">
 		<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
 	</a>
 	<a href="https://www.typescriptlang.org/" target="_blank">
-		<img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="JavaScript"/>
+		<img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 	</a>
 	<a href="https://react.dev/" target="_blank">
 		<img src="https://img.shields.io/badge/reactjs-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS"/>
 	</a>
 	<a href="https://nextjs.org/" target="_blank">
-		<img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="ReactJS"/>
+		<img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.JS"/>
 	</a>
 	<a href="https://webpack.js.org/" target="_blank">
 		<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack"/>
@@ -107,6 +99,9 @@ Equipped with knowledge of programming principles and best practices, I always a
 	</a>
 	<a href="https://flask.palletsprojects.com/" target="_blank">
 		<img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+	</a>
+	<a href="https://expressjs.com/" target="_blank">
+		<img src="https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 	</a>
 	<a href="https://jinja.palletsprojects.com/en/2.10.x/" target="_blank">
 		<img src="https://img.shields.io/badge/jinja-%23B41717.svg?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja"/>
@@ -247,7 +242,7 @@ Equipped with knowledge of programming principles and best practices, I always a
 		<img src="https://img.shields.io/badge/after effects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects"/>
 	</a>
 	<a href="https://www.adobe.com/in/products/premiere.html" target="_blank">
-		<img src="https://img.shields.io/badge/premiere pro-%239999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="After Effects"/>
+		<img src="https://img.shields.io/badge/premiere pro-%239999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pror"/>
 	</a>
 </div>
 
