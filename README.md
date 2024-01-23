@@ -103,6 +103,9 @@ Equipped with knowledge of programming principles and best practices, I always a
 	<a href="https://expressjs.com/" target="_blank">
 		<img src="https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 	</a>
+	<a href="https://nextjs.org/" target="_blank">
+		<img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.JS"/>
+	</a>
 	<a href="https://jinja.palletsprojects.com/en/2.10.x/" target="_blank">
 		<img src="https://img.shields.io/badge/jinja-%23B41717.svg?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja"/>
 	</a>
