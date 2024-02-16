@@ -26,7 +26,7 @@ Equipped with knowledge of programming principles and best practices, I always a
 ## Snapshots
 - 👨🏻‍💻 I'm currently working on [Support Ticketing System](https://github.com/mcmfire/support-ticketing-system.git).
 
-- ✏ I'm currently learning Node.js, and PHP.
+- ✏ I'm currently learning PHP.
 
 - 🔍 I desire learning programming principles and best practices.
 
@@ -88,6 +88,9 @@ Equipped with knowledge of programming principles and best practices, I always a
 	<a href="https://socket.io/" target="_blank">
 		<img src="https://img.shields.io/badge/socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
 	</a>
+	<a href="https://www.w3schools.com/whatis/whatis_json.asp" target="_blank">
+		<img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+	</a>
 </div>
 
 <br/>
@@ -97,14 +100,17 @@ Equipped with knowledge of programming principles and best practices, I always a
 	<a href="https://www.python.org/" target="_blank">
 		<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 	</a>
-	<a href="https://flask.palletsprojects.com/" target="_blank">
-		<img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-	</a>
 	<a href="https://expressjs.com/" target="_blank">
 		<img src="https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 	</a>
+	<a href="https://nodejs.org/en" target="_blank">
+		<img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Next.JS"/>
+	</a>
 	<a href="https://nextjs.org/" target="_blank">
 		<img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.JS"/>
+	</a>
+	<a href="https://flask.palletsprojects.com/" target="_blank">
+		<img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 	</a>
 	<a href="https://jinja.palletsprojects.com/en/2.10.x/" target="_blank">
 		<img src="https://img.shields.io/badge/jinja-%23B41717.svg?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja"/>
