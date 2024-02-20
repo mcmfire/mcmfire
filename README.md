@@ -19,7 +19,7 @@
 
 <br/>
 
-I'm an aspiring Backend Developer who is passionate about developing lightweight yet robust applications that are not only built with neatly written scripts but also with security concerns in mind.
+I'm a Full Stack Software Engineer who is passionate about developing lightweight yet robust applications that are not only built with neatly written scripts but also with security concerns in mind.
 
 Equipped with knowledge of programming principles and best practices, I always aim to provide high-quality performance on application development as well as promote uniformity and prevent threats by effectively working as a team and utilizing leadership when necessary.
 
